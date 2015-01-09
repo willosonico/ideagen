@@ -1,0 +1,3 @@
+just change $abs_url variable in index.php
+
+$abs_url = 'http://www.yourdomain.com/directory/';
