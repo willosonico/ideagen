@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase		/ideagen/
+
+RewriteRule   	^([^/]+)/([^/]+)/([^/]+)/	index.php?word1=$1&word2=$2&word3=$3

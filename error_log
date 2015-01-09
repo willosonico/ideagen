@@ -1,0 +1,25 @@
+[07-Jan-2015 17:51:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in /home/snxrmyew/public_html/ideagen/index.php on line 32
+[07-Jan-2015 22:44:46 Europe/Berlin] PHP Warning:  Missing argument 4 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:44:46 Europe/Berlin] PHP Warning:  Missing argument 5 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:44:46 Europe/Berlin] PHP Warning:  imagettfbbox(): Could not find/open font in /home/snxrmyew/public_html/ideagen/ant.php on line 90
+[07-Jan-2015 22:45:18 Europe/Berlin] PHP Warning:  Missing argument 4 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:18 Europe/Berlin] PHP Warning:  Missing argument 5 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:18 Europe/Berlin] PHP Warning:  imagettfbbox(): Could not find/open font in /home/snxrmyew/public_html/ideagen/ant.php on line 90
+[07-Jan-2015 22:45:19 Europe/Berlin] PHP Warning:  Missing argument 4 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:19 Europe/Berlin] PHP Warning:  Missing argument 5 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:19 Europe/Berlin] PHP Warning:  imagettfbbox(): Could not find/open font in /home/snxrmyew/public_html/ideagen/ant.php on line 90
+[07-Jan-2015 22:45:23 Europe/Berlin] PHP Warning:  Missing argument 4 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:23 Europe/Berlin] PHP Warning:  Missing argument 5 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:23 Europe/Berlin] PHP Warning:  imagettfbbox(): Could not find/open font in /home/snxrmyew/public_html/ideagen/ant.php on line 90
+[07-Jan-2015 22:45:24 Europe/Berlin] PHP Warning:  Missing argument 4 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:24 Europe/Berlin] PHP Warning:  Missing argument 5 for calculateTextDimensions(), called in /home/snxrmyew/public_html/ideagen/ant.php on line 41 and defined in /home/snxrmyew/public_html/ideagen/ant.php on line 89
+[07-Jan-2015 22:45:24 Europe/Berlin] PHP Warning:  imagettfbbox(): Could not find/open font in /home/snxrmyew/public_html/ideagen/ant.php on line 90
+[08-Jan-2015 00:28:07 Europe/Berlin] PHP Fatal error:  Call to undefined function do_it() in /home/snxrmyew/public_html/ideagen/ant.php on line 108
+[08-Jan-2015 00:28:08 Europe/Berlin] PHP Fatal error:  Call to undefined function do_it() in /home/snxrmyew/public_html/ideagen/ant.php on line 108
+[08-Jan-2015 00:28:09 Europe/Berlin] PHP Fatal error:  Call to undefined function do_it() in /home/snxrmyew/public_html/ideagen/ant.php on line 108
+[08-Jan-2015 00:40:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/snxrmyew/public_html/ideagen/ant.php on line 68
+[08-Jan-2015 00:40:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/snxrmyew/public_html/ideagen/ant.php on line 68
+[08-Jan-2015 00:40:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/snxrmyew/public_html/ideagen/ant.php on line 68
+[08-Jan-2015 00:40:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/snxrmyew/public_html/ideagen/ant.php on line 68
+[08-Jan-2015 00:40:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/snxrmyew/public_html/ideagen/ant.php on line 68
+[08-Jan-2015 00:40:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in /home/snxrmyew/public_html/ideagen/ant.php on line 68
