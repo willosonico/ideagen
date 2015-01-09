@@ -34,6 +34,10 @@
 			<meta property="og:image" content="<?=$abs_url?>img/logo.png" /><?
 		}
 	?>
+
+	<script language="javascript">
+		var base_url = "<?=$abs_url?>";
+	</script>
     
     <meta content="Idee improbabili per il 2015" name="description">
 </head>

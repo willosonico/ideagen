@@ -173,7 +173,6 @@ var app = {
 						share_word = share_word.replace('_', ' ');
 						
 						var post_url = word1+"/"+word2+"/"+word3+"/";
-						var base_url = "http://www.callistogames.com/ideagen/";
 						share_url = base_url+post_url;
 					}
 				}
@@ -250,7 +249,6 @@ var app = {
 						share_word = share_word.replace('_', ' ');
 						
 						var post_url = word1+"/"+word2+"/"+word3+"/";
-						var base_url = "http://www.callistogames.com/ideagen/";
 						share_url = base_url+post_url;
 					}
 				}
