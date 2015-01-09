@@ -1,3 +1,9 @@
+#+SETUPFILE: "doc/basho-doc-style.iorg"
+
+HTML5 Idea Generator
+
 just change $abs_url variable in index.php
 
-$abs_url = 'http://www.yourdomain.com/directory/';
+#+BEGIN_EXAMPLE
+    $abs_url = 'http://www.yourdomain.com/directory/';
+#+END_EXAMPLE
